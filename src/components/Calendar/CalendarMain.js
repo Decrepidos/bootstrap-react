@@ -28,7 +28,7 @@ class CalendarMain extends React.Component {
           </p>
         </div>
         <div className="intro tal demo-block">
-          <div class="insertCalendar">
+          <div className="insertCalendar">
             <DatePicker
               label="Your Birthday:"
               inputId="date"
